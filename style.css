@@ -1,5 +1,4 @@
 body {
-  background-color: #cccccc;
 }
 
 #missao {
@@ -10,10 +9,43 @@ p {
   text-align: center;
 }
 
-h1 {
+.titulo-principal{
+  padding-left: 20px;
+}
+
+.titulo-centralizado {
   text-align: center;
 }
 
 #banner {
   width: 100%;
+}
+
+.principal {
+  background-color: #cccccc;
+  padding: 30px;
+}
+
+.itens {
+  font-style: italic;
+}
+
+.beneficios{
+  padding: 20px;
+  background-color: #FFFFFF;
+}
+
+h2{
+  text-align: center;
+}
+
+ul {
+  display: inline-block;
+  vertical-align: top;
+  width: 20%;
+  margin-right: 15%;
+}
+
+.imagembeneficios{
+  width: 50%;
 }
